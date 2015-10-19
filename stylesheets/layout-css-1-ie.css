@@ -1,0 +1,56 @@
+/* lte IE 9 style*/
+.slideshow_wrapper {
+	-pie-background: linear-gradient( top,#666666 0%,  #c9c9c9 100%);
+	position: relative;
+}
+
+.footer_wrapper {
+	-pie-background: linear-gradient( top,#383838 0%,  #575757 100%);
+	position: relative;
+}
+
+.hmenubar li a:active {
+	-pie-background: linear-gradient( top,#1aa4ff 0%,  #0087e1 100%);
+	position: relative;
+}
+
+.hmenubar li a {
+	position: relative;
+}
+
+.hmenubar li a.clicked {
+	-pie-background: linear-gradient( top,#1aa4ff 0%,  #0087e1 100%);
+	position: relative;
+}
+
+a.article_one_btn {
+	-pie-background: linear-gradient( top,#8AE2FF 0%,  #23C8FE 3%,  #01B6F1 98%);
+	border-radius: 4px;
+	position: relative;
+}
+
+a.article_one_btn:hover {
+	-pie-background: linear-gradient( top,#59D6FF 0%,  #23C8FE 3%,  #0193C2 98%);
+	position: relative;
+}
+
+a.article_one_btn {
+	position: relative;
+}
+
+a.article_one1_btn {
+	-pie-background: linear-gradient( top,#8AE2FF 0%,  #23C8FE 3%,  #01B6F1 98%);
+	border-radius: 4px;
+	position: relative;
+}
+
+a.article_one1_btn:hover {
+	-pie-background: linear-gradient( top,#59D6FF 0%,  #23C8FE 3%,  #0193C2 98%);
+	position: relative;
+}
+
+a.article_one1_btn {
+	position: relative;
+}
+
+@media only screen and (min-width : 641px) { }

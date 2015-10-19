@@ -1,0 +1,12 @@
+[11-May-2013 11:00:14 America/New_York] PHP Warning:  include(top.php): failed to open stream: No such file or directory in /home/lphie/public_html/_purdue/Broprofiles/1.php on line 1
+[11-May-2013 11:00:14 America/New_York] PHP Warning:  include(top.php): failed to open stream: No such file or directory in /home/lphie/public_html/_purdue/Broprofiles/1.php on line 1
+[11-May-2013 11:00:14 America/New_York] PHP Warning:  include(): Failed opening 'top.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lphie/public_html/_purdue/Broprofiles/1.php on line 1
+[11-May-2013 11:00:14 America/New_York] PHP Warning:  include(bottom.php): failed to open stream: No such file or directory in /home/lphie/public_html/_purdue/Broprofiles/1.php on line 25
+[11-May-2013 11:00:14 America/New_York] PHP Warning:  include(bottom.php): failed to open stream: No such file or directory in /home/lphie/public_html/_purdue/Broprofiles/1.php on line 25
+[11-May-2013 11:00:14 America/New_York] PHP Warning:  include(): Failed opening 'bottom.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lphie/public_html/_purdue/Broprofiles/1.php on line 25
+[11-May-2013 11:10:44 America/New_York] PHP Warning:  include(top.php): failed to open stream: No such file or directory in /home/lphie/public_html/_purdue/Bro profiles/3.php on line 1
+[11-May-2013 11:10:44 America/New_York] PHP Warning:  include(top.php): failed to open stream: No such file or directory in /home/lphie/public_html/_purdue/Bro profiles/3.php on line 1
+[11-May-2013 11:10:44 America/New_York] PHP Warning:  include(): Failed opening 'top.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lphie/public_html/_purdue/Bro profiles/3.php on line 1
+[11-May-2013 11:10:44 America/New_York] PHP Warning:  include(bottom.php): failed to open stream: No such file or directory in /home/lphie/public_html/_purdue/Bro profiles/3.php on line 15
+[11-May-2013 11:10:44 America/New_York] PHP Warning:  include(bottom.php): failed to open stream: No such file or directory in /home/lphie/public_html/_purdue/Bro profiles/3.php on line 15
+[11-May-2013 11:10:44 America/New_York] PHP Warning:  include(): Failed opening 'bottom.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lphie/public_html/_purdue/Bro profiles/3.php on line 15
